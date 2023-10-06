@@ -1,4 +1,4 @@
-# PASTA Framework; Threat Modeling
+# Process of Attack Simulation and Threat Analysis (PASTA) Threat Modeling Framework
 <h1>Description</h1>
 
 In this exercise, I'll engage in applying the Process of Attack Simulation and Threat Analysis (PASTA) threat model framework to assess the safety of a new shopping app before its launch.
