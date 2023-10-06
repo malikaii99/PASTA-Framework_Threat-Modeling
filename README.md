@@ -22,7 +22,7 @@ Next, the application development team is involved with the application because 
 
 <h2>Framework Report </h2>
 
-<h3> Business and Security objectives </h3>
+<h3> Business and Security Objectives</h3>
 
 The primary goal of this application revolves around facilitating secure transactions between sellers and buyers, ensuring users' confidence in the security of their information and the efficiency of the payment process. To achieve this, the application is designed to offer users a variety of payment options, streamlining the checkout process. Compliance with the Payment Card Industry Data Security Standard (PCI DSS) is a fundamental aspect of ensuring the secure handling of payment data.
 
@@ -41,7 +41,7 @@ Given the paramount objective of safeguarding private information, the evaluatio
 
 <h3> Decomposing of application</h3>
 
-
+ - [Data flow diagram](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
 
 <h3> Threat analysis </h3>
 
@@ -69,6 +69,9 @@ By acknowledging and diligently addressing these vulnerabilities, the applicatio
 
 <h3> Attack modeling </h3>
 
+ - [Attack tree](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
+
+   
 <h3> Risk analysis and impact </h3>
 
 To mitigate these risks and enhance security, the application implements four key security controls that have been learned:
