@@ -41,7 +41,7 @@ Given the paramount objective of safeguarding private information, the evaluatio
 
 <h3> Decomposing of application</h3>
 
- - [Data flow diagram](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
+ - [Data flow diagram](https://github.com/malikaii99/PASTA-Framework_Threat-Modeling/blob/a7a4b669f0e7b71acbb4be58af0be03b1644162e/PASTA%20Documents.pdf)
 
 <h3> Threat analysis </h3>
 
@@ -69,7 +69,7 @@ By acknowledging and diligently addressing these vulnerabilities, the applicatio
 
 <h3> Attack modeling </h3>
 
- - [Attack tree](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
+ - [Attack tree](https://github.com/malikaii99/PASTA-Framework_Threat-Modeling/blob/a7a4b669f0e7b71acbb4be58af0be03b1644162e/PASTA%20Documents.pdf)
 
    
 <h3> Risk analysis and impact </h3>
